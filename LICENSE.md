@@ -69,7 +69,5 @@ License: BSD 3-Clause (see `thirdparty/mass\_univariate\_erp\_toolbox/License.md
 
 
 
-Files and functions that incorporate code from the Mass Univariate ERP Toolbox
-
-are documented in their file headers.
+Files and functions that incorporate code from the Mass Univariate ERP Toolbox are documented in their file headers.
 
